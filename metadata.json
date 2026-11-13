@@ -1,0 +1,6 @@
+{
+  "name": "Northbridge School Management",
+  "description": "Interactive multi-role School Management System demo for student admissions, daily attendance, exams & grades, tuition billing, and printable report cards & fee receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
